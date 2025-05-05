@@ -16,6 +16,6 @@ None currently
 
 **PLANNED SUPPORT**
 
-- Crabber's Delight https://modrinth.com/mod/crabbers-delight
-- End's Delight https://modrinth.com/mod/ends-delight
+- [Crabber's Delight](https://modrinth.com/mod/crabbers-delight)
+- [End's Delight](https://modrinth.com/mod/ends-delight)
 - Will look into more later (If you would like to request an addon to be supported contact me on discord (@disappointedcreeper))
