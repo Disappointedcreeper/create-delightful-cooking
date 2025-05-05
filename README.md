@@ -3,6 +3,8 @@ A datapack to allow automation of Farmer's Delight with Create Mod in 1.21.1.
 
 Made because Create: Central Kitchen has yet to be updated to 1.21.1.
 
+[github repo](https://github.com/Disappointedcreeper/create-delightful-cooking/)
+
 ## Supported addons
 **FULL SUPPORT**
 
