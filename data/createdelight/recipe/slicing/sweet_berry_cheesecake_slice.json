@@ -1,0 +1,15 @@
+{
+    "type": "create:cutting",
+    "processing_time": 5,
+    "ingredients": [
+      {
+        "item": "farmersdelight:sweet_berry_cheesecake"
+      }
+    ],
+    "results": [
+      {
+        "id": "farmersdelight:sweet_berry_cheesecake_slice",
+        "count": 4
+      }
+    ]
+}

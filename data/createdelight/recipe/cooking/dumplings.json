@@ -1,0 +1,29 @@
+{
+  "type": "create:mixing",
+  "heat_requirement": "heated",
+  "ingredients": [
+    {
+      "tag": "createdelight:wheatdough"
+    },
+    {
+      "tag": "c:foods/cabbage"
+    },
+    {
+      "item": "farmersdelight:onion"
+    },
+    {
+      "tag": "createdelight:makes_dumplings"
+    },
+    {
+      "type": "fluid_stack",
+      "amount": 250,
+      "fluid": "minecraft:water"
+    }
+  ],
+  "results": [
+    {
+      "id": "farmersdelight:dumplings",
+      "count": 2
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+    "type": "create:cutting",
+    "processing_time": 5,
+    "ingredients": [
+      {
+        "tag": "createdelight:wheatdough"
+      }
+    ],
+    "results": [
+      {
+        "id": "farmersdelight:raw_pasta"
+      }
+    ]
+}

@@ -1,0 +1,15 @@
+{
+    "type": "create:cutting",
+    "processing_time": 5,
+    "ingredients": [
+      {
+        "item": "minecraft:cooked_mutton"
+      }
+    ],
+    "results": [
+      {
+        "id": "farmersdelight:cooked_mutton_chops",
+        "count": 2
+      }
+    ]
+}

@@ -1,0 +1,19 @@
+{
+  "type": "create:milling",
+  "ingredients": [
+    {
+      "item": "farmersdelight:wild_carrots"
+    }
+  ],
+  "processing_time": 50,
+  "results": [
+    {
+      "id": "minecraft:carrot"
+    },
+    {
+      "id": "minecraft:light_gray_dye",
+      "chance": 0.5,
+      "count": 2
+    }
+  ]
+}

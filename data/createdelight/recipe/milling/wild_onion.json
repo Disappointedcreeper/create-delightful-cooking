@@ -1,0 +1,22 @@
+{
+  "type": "create:milling",
+  "ingredients": [
+    {
+      "item": "farmersdelight:wild_onions"
+    }
+  ],
+  "processing_time": 50,
+  "results": [
+    {
+      "id": "farmersdelight:onion"
+    },
+    {
+      "id": "minecraft:magenta_dye"
+    },
+    {
+      "id": "minecraft:lime_dye",
+      "chance": 0.5,
+      "count": 2
+    }
+  ]
+}
